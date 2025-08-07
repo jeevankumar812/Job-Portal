@@ -1,4 +1,4 @@
-# 🧠 Job Tracker Backend API
+# 🧠 Job Portal Backend API
 
 A RESTful API built with **Node.js**, **Express**, and **MongoDB** to track job applications. It allows users to create, read, update, and delete job entries (CRUD operations). Perfect for integrating with a frontend like React in a full MERN stack project.
 
@@ -35,6 +35,7 @@ job-tracker-backend/
 ```
 ---
 
-## ⚙️ Installation & Setup
+
+
 
 
